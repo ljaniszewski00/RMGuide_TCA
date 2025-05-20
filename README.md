@@ -45,36 +45,37 @@ Apple iPhone with iOS 16+ installed
 ### Start
 
 <p float="left">
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/240b44ae-1007-454f-a839-168f1b1aeaad" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3ae40216-83a7-479e-a306-eecd07b99ecd" width="30%" />
 </p>
 
 
 ### CharactersList
 
 <p float="left">
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/7a0f3e4a-d4c2-4caf-a237-4a8543d1cc9f" width="30%" />
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/4638d0f0-94ff-4ecf-b230-6361ebf057d9" width="30%" />
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/9e01efe8-de80-44a5-ae12-2c567c4720c1" width="30%" />
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/71c2d629-accf-4454-bb8f-8570a658f046" width="30%" />
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/d30402d5-5402-45ed-bfe0-b393c048e78d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6b5892ae-e6e0-403c-97af-8010b2b047a8" width="30%" />
+  <img src="https://github.com/user-attachments/assets/63c5d358-2c72-45f7-86b2-7d1cc542359d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/defe7453-4eae-4118-8f53-72d7d516de19" width="30%" />
+  <img src="https://github.com/user-attachments/assets/888bf33e-3d80-4b31-8496-037843f8f56f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ff63439d-868b-40b9-92f9-2682b363143e" width="30%" />
 </p>
 
 
 ### CharacterDetails
 
 <p float="left">
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/88c336a6-7bce-4a0f-8e2d-551317e0ba5d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3c6aba4a-591d-40af-b6c2-8e1f3c6459e4" width="30%" />
 </p>
 
 
 ### EpisodeDetails
 
 <p float="left">
-  <img src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/98716680-0496-49fd-bea5-64685bed45e3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/30dd2272-a8f7-4e88-b93d-77f70586c85f" width="30%" />
 </p>
 
    
 ## Preview Video 
 
-https://github.com/ljaniszewski00/RMGuide/assets/78795431/27c1e860-1b3c-4a81-b5c8-bd8f46714581
+https://github.com/user-attachments/assets/3464daca-49b5-4fe3-9eb9-58d309d789f6
+
 
