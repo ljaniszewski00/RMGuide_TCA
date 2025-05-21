@@ -1,6 +1,7 @@
 # RMGuideTCA
 
-<img width="500" alt="RMGuide Logo" src="https://github.com/ljaniszewski00/RMGuide/assets/78795431/dfc5cde1-524c-4815-82ae-bf34000cfae4">
+<img width="500" alt="RMGuide Logo" src="https://github.com/user-attachments/assets/0085f8e6-0e15-43d8-b473-f5846b331db5">
+
 
 ## Table of Content
 * [General info](#general-info)
